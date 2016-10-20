@@ -1,0 +1,2 @@
+# JSTest
+Testing Javascript coding
