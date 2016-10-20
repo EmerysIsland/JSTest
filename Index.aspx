@@ -8,8 +8,8 @@
   </head>
   <body>
     <h1>Mozilla is cool</h1>
-   <%-- <img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">--%>
-       <img src="images/A.jpg" alt="Test Image." style="width:60px;height=40px"> 
+  <img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">
+   
     <p>At Mozilla, we’re a global community of</p>
 
     <ul> <!-- changed to list in the tutorial -->
